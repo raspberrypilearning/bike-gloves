@@ -1,13 +1,14 @@
-title: Project title in sentence case
+title: Bioke gloves
 hero_image: images/banner.png
-description: A short description of the project
+description: Create flashing bike gloves and stay safe when riding in the dark!
 listed: false
 pdf: false
 steps:
   - title: What you will make
-  - title: Step title
+  - title: Prototype
     completion:
-      - engaged      
+      - engaged     
+  - title: Add to your gloves 
   - title: Challenge
     challenge: true
     completion:
