@@ -106,7 +106,7 @@ Add the 9V battery and connect the power and ground rails:
 --- no-print ---
 
 <video width="480" height="270" controls>
-<source src="images/LED_555.mp4" type="video/mov">
+<source src="images/LED_555.mp4" type="video/mp4">
 </video>
 
 --- /no-print ---
