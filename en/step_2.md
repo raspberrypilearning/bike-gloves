@@ -79,7 +79,7 @@ The 555 will oscillate, but you will no notice this until it is connected to an 
 
 --- /task ---
 
-### Add the LED and resistor
+### Add the LED and resistor
 
 --- task ---
 
