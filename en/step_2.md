@@ -89,6 +89,8 @@ Connect the LED's short leg to the ground rail.
 
 ![An LED with the long leg in H14 and short leg in H15](images/LED_555-1.png){:width="450px"}
 
+--- /task ---
+
 --- task ---
 
 Add the 9V battery and connect the power and ground rails:
