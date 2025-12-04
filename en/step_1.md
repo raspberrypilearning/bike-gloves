@@ -30,3 +30,9 @@ Create flashing bike gloves and stay safe when riding in the dark!
 - Conductive thread
 - Needle
 - A pair of gloves
+- Soldering kit
+
+**Optional**:
+- Potentiometer
+- LDR
+- Extra 47k resistors
