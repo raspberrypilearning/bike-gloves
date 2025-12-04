@@ -53,15 +53,15 @@ Join pins 2 and 6 together (TRIG and THRESH).
 
 --- task ---
 
-Add two 47k resistors:
+Add two 47 kΩ. resistors:
 
 - The first connects the positive rail to pin 7.
 
-![A 47k resistor connecting H5 and H9](images/LED_555-4.png){:width="450px"}
+![A kΩ resistor connecting H5 and H9](images/LED_555-4.png){:width="450px"}
 
 - The second connects pin 7 to pins 2 and 6 (the joined pins).
 
-![A 47k resistor connecting G9 and G13](images/LED_555-3.png){:width="450px"}
+![A kΩ resistor connecting G9 and G13](images/LED_555-3.png){:width="450px"}
 
 --- /task ---
 

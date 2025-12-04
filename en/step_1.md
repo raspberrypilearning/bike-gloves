@@ -20,7 +20,7 @@ Create flashing bike gloves and stay safe when riding in the dark!
 - Breadboard
 - 2 x LED
 - 2 x 555 timer
-- 4 x 47k resistors
+- 4 x kΩ resistors
 - 2 x 470Ω or 330Ω resistor
 - 2 x 10uF capacitor
 - Jumper cables
@@ -35,4 +35,4 @@ Create flashing bike gloves and stay safe when riding in the dark!
 **Optional**:
 - Potentiometer
 - LDR
-- Extra 47k resistors
+- Extra kΩ resistors
