@@ -90,6 +90,8 @@ Connect the LED's short leg to the ground rail.
 
 --- task ---
 
+**Test**:
+
 Add the 9V battery and connect the power and ground rails:
 
 - Battery positive to the red positive rail
@@ -98,7 +100,7 @@ Add the 9V battery and connect the power and ground rails:
 
 ![A 9V battery connected to the power rails](images/LED_555.png){:width="450px"}
 
---- /task ---
+The LED should blink once every second.
 
 --- no-print ---
 
@@ -108,11 +110,11 @@ Add the 9V battery and connect the power and ground rails:
 
 --- /no-print ---
 
-The LED should blink once every second.
-
 **Debug**: Unplug the battery and recheck:
 
 - Pin 1 = GND, pin 8 = +9V, pin 4 tied to +9V
 - Pins 2 & 6 properly joined
 - Timing capacitor legs the correct way round
 - LED legs the correct way round.
+
+--- /task ---
