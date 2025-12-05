@@ -92,7 +92,7 @@ Cut the PCB in a straight line, leaving space for the 9V battery.
 
 --- task ---
 
-- Connect the thread from the LED's long leg to the 470Ω resistor
+- Connect the thread from the LED's long leg to the 470 Ω resistor
 
 - Connect the thread from the LED's short leg to the circuit's negative rail
 

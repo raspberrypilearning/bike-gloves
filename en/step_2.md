@@ -54,11 +54,11 @@ Add two 47 kΩ. resistors:
 
 - The first connects the positive rail to pin 7.
 
-![A kΩ resistor connecting H5 and H9](images/LED_555-4.png){:width="450px"}
+![A 47 kΩ resistor connecting H5 and H9](images/LED_555-4.png){:width="450px"}
 
 - The second connects pin 7 to pins 2 and 6 (the joined pins).
 
-![A kΩ resistor connecting G9 and G13](images/LED_555-3.png){:width="450px"}
+![A 47 kΩ resistor connecting G9 and G13](images/LED_555-3.png){:width="450px"}
 
 --- /task ---
 
@@ -70,7 +70,7 @@ Add the capacitor (10 µF) so that:
 
 - The negative (short) leg connects to the GND rail
 
-![A 10uF capacitor with the long leg in J13 and short leg in J15](images/LED_555-2.png){:width="450px"}
+![A 10 µF capacitor with the long leg in J13 and short leg in J15](images/LED_555-2.png){:width="450px"}
 
 The 555 will oscillate, but you will no notice this until it is connected to an LED.
 
@@ -80,7 +80,7 @@ The 555 will oscillate, but you will no notice this until it is connected to an 
 
 --- task ---
 
-Connect Pin 3 (output) to the 470Ω resistor, which connects to the LED's long leg.
+Connect Pin 3 (output) to the 470 Ω resistor, which connects to the LED's long leg.
 
 Connect the LED's short leg to the ground rail.
 
