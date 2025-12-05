@@ -34,7 +34,7 @@ Tie some conductive thread around the legs of the LED and secure with solder.
 
 Add the LED to the back of the glove and bend the legs up to secure it. 
 
-Make the sharp edges are away from your hand. You can trim the legs with snippers.
+Keep the sharp edges are away from your hand. You can trim the legs with snippers.
 
 ![LED added to glove](images/circuit_5.jpeg)
 
