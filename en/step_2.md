@@ -50,7 +50,7 @@ Join pins 2 and 6 together (TRIG and THRESH).
 
 --- task ---
 
-Add two 47 kΩ. resistors:
+Add two 47 kΩ resistors:
 
 - The first connects the positive rail to pin 7.
 
