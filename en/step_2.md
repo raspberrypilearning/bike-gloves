@@ -1,6 +1,6 @@
 ## Prototype
 
-### Power + 555 “skeleton”
+### Power the 555 timer
 
 --- task ---
 
@@ -35,9 +35,6 @@ Pin 8 → positive rail
 Pin 4 (RESET) → positive rail (so it is always enabled)
 
 ![A jumper cable connecting A11 to the positive rail](images/LED_555-6.png){:width="450px"}
-
-
-At this stage, the 555 chip has power pins wired but nothing else.
 
 --- /task ---
 
