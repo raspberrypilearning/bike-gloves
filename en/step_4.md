@@ -2,7 +2,9 @@
 
 ### Blink faster
 
-Half the resistance = Double the speed!
+Bike lights might be more visible is they blink quickly.
+
+If the resistance is halved, the LED will blink twice as fast!
 
 --- task ---
 
@@ -14,7 +16,7 @@ Solder the legs directly to the exposed legs of the existing resistor.
 
 --- /task ---
 
-### Vary the blink time 
+### Vary the blink time
 
 Turn a dial to change the blink rate.
 
@@ -30,6 +32,8 @@ Bend the other potentiometer leg out of the way, or trim it off.
 --- /task ---
 
 ### Save battery - only work only in low light
+
+Your bike light will mostly be needed later in the day, when it is darker.
 
 Makes a voltage divider, so Pin 4 can sense light levels.
 

@@ -1,20 +1,23 @@
-## Prototype
+## Make a prototype
 
 ### Power the 555 timer
+
+With the notch on the left, the 555 timer pins are:
+
+1 - Ground
+2 - Trigger
+3 - Output
+4 - Reset
+5 - Control
+6 - Threshold
+7 - Discharge
+8 - VCC
+
+![555 chip pinout. Pins 1 - 4 at the bottom from left to right and pins 5 - 8 at the top from right to left.)](images/555_timer_pinout.png){:width="450px"}
 
 --- task ---
 
 Put the 555 chip in the middle of the breadboard, across the centre gap.
-
-With the notch on the left, the pins are:
-
-```
-8  7  6  5
-|--|--|--|
-
-|--|--|--|
-1  2  3  4
-```
 
 ![555 chip added to breadboard with Pin 1 in E8 and Pin 8 in F8](images/LED_555-9.png){:width="450px"}
 
@@ -36,13 +39,15 @@ Pin 4 (RESET) → positive rail (so it is always enabled)
 
 ![A jumper cable connecting A11 to the positive rail](images/LED_555-6.png){:width="450px"}
 
+You will add the battery to the breadboard at the end.
+
 --- /task ---
 
 ### Build the timing network
 
 --- task ---
 
-Join pins 2 and 6 together (TRIG and THRESH).
+Join pins 2 and 6 together (trigger and threshold).
 
 ![A jumper cable connecting D9 to D13. Another jumper cable connecting E13 to F13. Another jumper cable connects H13 to H10](images/LED_555-5.png){:width="450px"}
 
@@ -72,8 +77,6 @@ Add the capacitor (10 µF) so that:
 
 ![A 10 µF capacitor with the long leg in J13 and short leg in J15](images/LED_555-2.png){:width="450px"}
 
-The 555 will oscillate, but you will no notice this until it is connected to an LED.
-
 --- /task ---
 
 ### Add the LED and resistor
@@ -100,7 +103,7 @@ Add the 9V battery and connect the power and ground rails:
 
 ![A 9V battery connected to the power rails](images/LED_555.png){:width="450px"}
 
-The LED should blink once every second.
+The LED should blink once every second, great for warning other road users!
 
 --- no-print ---
 

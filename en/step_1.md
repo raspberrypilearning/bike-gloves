@@ -34,5 +34,5 @@ Create flashing bike gloves and stay safe when riding in the dark!
 
 **Optional**:
 - Potentiometer
-- LDR
+- Light dependent resistor (LDR)
 - Extra 47 kΩ resistors
