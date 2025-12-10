@@ -10,7 +10,7 @@ Create flashing bike gloves and stay safe when riding in the dark!
 
 --- no-print ---
 
-<video width="270" height="480" controls>
+<video width="270" height="480" controls autoplay>
 <source src="images/bike_glove.mp4" type="video/mp4">
 </video>
 
