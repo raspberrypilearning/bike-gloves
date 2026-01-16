@@ -1,14 +1,14 @@
 ## Add to your gloves
 
-If you are new to soldering, you could follow our [Getting started with soldering](https://projects.raspberrypi.org/en/projects/getting-started-with-soldering){:target="_blank"} project!
+If you are new to soldering, check out our [Getting started with soldering](https://projects.raspberrypi.org/en/projects/getting-started-with-soldering){:target="_blank"} guide for support.
 
 ### Add the components
 
 --- task ---
 
-Using the breadboard as a guide, add the components to a prototype circuit board.
+Using the breadboard as a guide, add the components to a prototype circuit board (PCB).
 
-![Components placed on the PCB](images/circuit_1.jpeg)
+![Components placed on the prototype circuit board.](images/circuit_1.jpeg)
 
 --- /task ---
 
@@ -16,9 +16,9 @@ Using the breadboard as a guide, add the components to a prototype circuit board
 
 --- task ---
 
-You can use resistor legs as positive / negative rails if your prototype board does not have them.
+Solder the components to the PCB. You can use resistor legs as positive and negative rails if your PCB does not have them.
 
-![Components soldered](images/circuit_2.jpeg)
+![The back of the PCB with the components soldered.](images/circuit_2.jpeg)
 
 --- /task ---
 
@@ -26,21 +26,21 @@ You can use resistor legs as positive / negative rails if your prototype board d
 
 --- task ---
 
-Curl the LED legs into loops and sew them directly into your glove with conductive thread.
+Curl the LED legs into loops and sew them into your glove with conductive thread.
 
-![LED with conductive thread](images/circuit_4.png){:width="450px"}
+![Sewing the LED legs to the glove with conductive thread.](images/circuit_4.png){:width="450px"}
 
-Keep the sharp edges are away from your hand. You can trim the legs with snippers.
-
-![LED added to glove](images/circuit_5.jpeg){:width="450px"}
+Make sure there are no sharp edges near your hand. You can trim the legs with snippers.
 
 --- /task ---
 
 --- task ---
 
-Sew the thread from each leg through the back of the hand to the cuff.
+Sew the thread from each leg through the back of the glove to the cuff.
 
-![LED threads showing at the cuff](images/circuit_6.jpeg){:width="450px"}
+![An illustration of sewing the thread from each leg through the back of the glove to the cuff.](images/circuit_5.jpeg){:width="450px"}
+
+![Conductive thread from the legs of the LED showing at the cuff.](images/circuit_6.jpeg){:width="450px"}
 
 --- /task ---
 
@@ -48,17 +48,17 @@ Sew the thread from each leg through the back of the hand to the cuff.
 
 --- task ---
 
-Sew conductive thread into the thumb and the little finger. They should touch when you bring them together.
+Sew conductive thread into the thumb and the little finger of the glove. The pads of thread should touch when you bring them together.
 
-![LED with conductive thread and solder](images/circuit_3.jpeg){:width="450px"}
+![The glove with a conductive thread pad visible on the thumb.](images/circuit_3.jpeg){:width="450px"}
 
 --- /task ---
 
 --- task ---
 
-Run the thread along the back of the hand to the cuff of the glove.
+Sew the thread from each side of the switch along the back of the glove to the cuff.
 
-![Finger and thumb 'switch' threads running along the back of the glove to the cuff](images/circuit_6a.jpeg){:width="450px"}
+![An illustration of sewing the thread from the thumb and little finger to the cuff along the back of the glove.](images/circuit_6a.jpeg){:width="450px"}
 
 --- /task ---
 
@@ -66,13 +66,13 @@ Run the thread along the back of the hand to the cuff of the glove.
 
 --- task ---
 
-- The negative terminal of the 9V battery connects to the negative rail of your circuit.
+Connect the negative terminal of the 9V battery to the negative rail of your PCB.
 
-- The positive terminal of the 9V battery connects to the conductive thread from the thumb.
+Connect the positive terminal of the 9V battery to the conductive thread from the thumb.
 
-- The positive rail of the circuit connects to the conductive thread from the little finger.
+Connect the positive rail of the PCB to the conductive thread from the little finger.
 
-![LED threads showing at the cuff](images/circuit_7.jpeg){:width="450px"}
+![The positive side of the battery connector has been connected to the conductive thread from the thumb at the cuff of the glove, and the negative side has been connected to the negative rail of the PCB, and the positive rail of the PCB has been connected to the conductive thread from the little finger at the cuff of the glove.](images/circuit_7.jpeg){:width="450px"}
 
 --- /task ---
 
@@ -82,9 +82,9 @@ Run the thread along the back of the hand to the cuff of the glove.
 
 Cut the PCB in a straight line, leaving space for the 9V battery.
 
-![PCB cut to fit](images/circuit_8.jpeg){:width="450px"}
+![The PCB has been cut to fit the glove.](images/circuit_8.jpeg){:width="450px"}
 
-This will fit on your wrist better when riding your bike.
+This will make it fit on your wrist better when you ride your bike.
 
 --- /task ---
 
@@ -92,17 +92,17 @@ This will fit on your wrist better when riding your bike.
 
 --- task ---
 
-- Connect the thread from the LED's long leg to the 470 Ω resistor
+Connect the conductive thread from the LED's long leg to the 470Ω resistor.
 
-- Connect the thread from the LED's short leg to the circuit's negative rail
+Connect the conductive thread from the LED's short leg to the PCB's negative rail.
 
-![LED threads showing at the cuff](images/circuit_9.jpg){:width="450px"}
+![At the cuff of the glove, the conductive thread from the LED has been connected to the resistor and the PCB's negative rail.](images/circuit_9.jpg){:width="450px"}
 
 --- /task ---
 
 --- task ---
 
-Sew the prototype board to the glove and secure the 9V battery to it (we used hot glue).
+Sew the PCB to the glove and secure the 9V battery to it (we used hot glue).
 
 --- /task ---
 
