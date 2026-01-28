@@ -6,7 +6,7 @@ If you are new to soldering, check out our [Getting started with soldering](http
 
 --- task ---
 
-Using the breadboard as a guide, add the components to a prototype circuit board (PCB).
+Using the breadboard as a guide, add the resistors, capacitor and the 555 timer to a prototype circuit board (PCB).
 
 ![Components placed on the prototype circuit board.](images/circuit_1.jpeg)
 
@@ -38,7 +38,7 @@ Make sure there are no sharp edges near your hand. You can trim the legs with sn
 
 Sew the thread from each leg through the back of the glove to the cuff.
 
-![An illustration of sewing the thread from each leg through the back of the glove to the cuff.](images/circuit_5.jpeg){:width="450px"}
+![An example of sewing the thread from each leg through the back of the glove to the cuff.](images/circuit_5.jpeg){:width="450px"}
 
 ![Conductive thread from the legs of the LED showing at the cuff.](images/circuit_6.jpeg){:width="450px"}
 
