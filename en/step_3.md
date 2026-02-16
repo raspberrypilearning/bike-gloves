@@ -6,9 +6,9 @@ If you are new to soldering, check out our [Getting started with soldering](http
 
 --- task ---
 
-Using the breadboard as a guide, add the resistors, capacitor and the 555 timer to a prototype circuit board (PCB).
+Using the breadboard as a guide, add the resistors, capacitor, and 555 timer to a prototype circuit board (PCB).
 
-![Components placed on the prototype circuit board.](images/circuit_1.jpeg)
+![The components placed on the prototype circuit board.](images/circuit_1.jpeg)
 
 --- /task ---
 
