@@ -40,6 +40,6 @@ Connect one leg of an LDR to **pin 8 (VCC)**.
 
 Connect the other leg of the LDR to **pin 4** and a 47kΩ resistor.
 
-Connect the other leg of the resistor to GND.
+Connect the other leg of the resistor to the negative rail.
 
 --- /task ---
